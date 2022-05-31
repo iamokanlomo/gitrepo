@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gitrepo/static/css/main.96cdb765.css",
+    "main.js": "/gitrepo/static/js/main.082b4d14.js",
+    "static/js/787.af8ea083.chunk.js": "/gitrepo/static/js/787.af8ea083.chunk.js",
+    "static/media/logo.svg": "/gitrepo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gitrepo/index.html",
+    "main.96cdb765.css.map": "/gitrepo/static/css/main.96cdb765.css.map",
+    "main.082b4d14.js.map": "/gitrepo/static/js/main.082b4d14.js.map",
+    "787.af8ea083.chunk.js.map": "/gitrepo/static/js/787.af8ea083.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96cdb765.css",
+    "static/js/main.082b4d14.js"
+  ]
+}
